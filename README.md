@@ -116,17 +116,6 @@
 
 ### 1. Docker1
 
-- [部署方法](https://github.com/LXK9301/jd_scripts/tree/master/docker)
-
-- [环境变量集合](https://github.com/LXK9301/jd_scripts/blob/master/githubAction.md)
- 
-- 获取京东cookie教程可参考：
-  
-  + [浏览器获取京东cookie教程](https://github.com/LXK9301/jd_scripts/blob/master/backUp/GetJdCookie.md)
-    
-  + [插件获取京东cookie教程](https://github.com/LXK9301/jd_scripts/blob/master/backUp/GetJdCookie2.md)
-    
-  + 京东APP扫码获取cookie(此种方式获取的cookie有效期为90天)(执行`node getJDCookie.js`即可)
 
 ### 2. iOS代理软件（QuantumultX, Surge, Loon, 小火箭）
 
